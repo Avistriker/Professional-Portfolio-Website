@@ -65,12 +65,4 @@ I am passionate about technology, coding, and building solutions that address re
 
 ---
 
-## 🛠️ Tools Used
-
-- **Version Control:** Git
-- **Project Management:** Trello, Notion
-- **Deployment:** Heroku, AWS (Basic)
-
----
-
 Feel free to connect with me to collaborate on projects, share ideas, or discuss tech trends! 😊
