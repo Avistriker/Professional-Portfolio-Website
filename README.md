@@ -65,12 +65,6 @@ I am passionate about technology, coding, and building solutions that address re
 
 ---
 
-## 📈 GitHub Stats
-
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashkumar&show_icons=true&theme=radical)
-
----
-
 ## 🛠️ Tools Used
 
 - **Version Control:** Git
